@@ -1,0 +1,2 @@
+A2,Dino Margono,Kediri,12434,Thu Apr 15 21:37:36 WIB 2004,Dewasa
+A2,Iqbal Ramadhan,Kediri,12543,Wed Apr 16 21:39:44 WIB 2003,Dewasa
